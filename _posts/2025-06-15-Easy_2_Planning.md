@@ -1,5 +1,5 @@
 ---
-title: HTB靶机Planning Write UP
+title: HTB-Easy Planning Write UP
 date: 2025-06-15 16:04:00 +0800
 last_modified_at: 2025-06-15 16:04:00 +0800
 categories: [HTB]
